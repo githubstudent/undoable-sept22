@@ -5,6 +5,7 @@ date:   2015-09-22 07:30:33
 categories: births
 ---
 # Births
+
 -   [1515] – [Anne of Cleves] (d. 1557)
 -   [1547] – [Philipp Nicodemus Frischlin], German philologist,
     mathematician, astronomer, and poet (d. 1590)

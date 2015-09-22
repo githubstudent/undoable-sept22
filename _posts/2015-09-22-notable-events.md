@@ -4,8 +4,7 @@ title:  Notable Events
 date:   2015-09-22 07:35:23
 categories: events
 ---
-Events
-------
+# Events
 
 -   [480 BC] – [Battle of Salamis]: The Greek fleet under [Themistocles]
     defeats the Persian fleet under [Xerxes I].
