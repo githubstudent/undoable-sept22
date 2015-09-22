@@ -1,7 +1,7 @@
 
 # A Collection of Interesting Tidbits About Sept 22
 
-## By: GitHub Student
+## By: GitHub Student (@jaw6)
 
 {% include base.html %}
 {% for post in site.posts %}
